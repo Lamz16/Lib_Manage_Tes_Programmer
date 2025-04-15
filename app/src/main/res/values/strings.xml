@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lib Manage</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Library Manage</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_logout">Logout</string>
+
+    <string name="menu_home">Book</string>
+    <string name="menu_history">Riwayat Peminjaman</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="judul_buku">Judul Buku</string>
+    <string name="penulis">Penulis</string>
+    <string name="tahun">Tahun</string>
+    <string name="stok">Stok</string>
+    <string name="pilih_tanggal_pinjam">Pilih Tanggal Pinjam</string>
+</resources>
